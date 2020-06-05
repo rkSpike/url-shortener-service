@@ -9,7 +9,7 @@ djangorestframework = "*"
 pylint = "*"
 
 [packages]
-django = "==3.0.2"
+django = "==3.0.7"
 djangorestframework = "==3.11.0"
 
 [requires]
